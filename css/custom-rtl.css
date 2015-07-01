@@ -1,0 +1,60 @@
+.bb-custom-wrapper {
+	
+}
+
+.bb-custom-wrapper:before, 
+.bb-custom-wrapper:after {
+	
+	left:auto; right: 0;
+	
+}
+
+.bb-custom-wrapper:before {
+	
+}
+
+.bb-custom-wrapper:after {
+	
+}
+
+.bb-bookblock {
+	
+}
+
+.bb-custom-wrapper h3 {
+	
+	left:auto; right: 10px;
+	
+}
+
+.bb-custom-wrapper nav {
+	
+	margin: 8px 0 0 10px;
+	float: left;
+	
+}
+
+.bb-custom-wrapper nav a {
+	float: right;
+	
+	background: url(../images/nav_small.png) center left;
+	
+}
+
+.bb-custom-wrapper nav a:hover {
+	
+}
+
+.bb-custom-wrapper nav a#bb-nav-prev {
+	background-position: -43px 50%;
+	margin-right: 0; margin-left: 5px;
+}
+.bb-custom-wrapper nav a#bb-nav-next {
+	
+	background-position: center left;
+}
+
+.bb-custom-wrapper nav a#bb-nav-jump {
+	background-position: center left;
+	float: left;
+}

@@ -1,0 +1,70 @@
+.bb-bookblock {
+	
+}
+
+ul.bb-custom-grid {
+
+}
+
+/* Micro clearfix hack by Nicolas Gallagher http://nicolasgallagher.com/micro-clearfix-hack/ */
+ul.bb-custom-grid:before,
+ul.bb-custom-grid:after {
+	
+}
+
+ul.bb-custom-grid:after {
+	
+}
+/* end clearfix hack */
+
+ul.bb-custom-grid li {
+	float: right;
+	
+
+}
+
+ul.bb-custom-grid li:nth-child(odd) {
+	margin-left:20px; margin-right: 0;
+}
+
+ul.bb-custom-grid li:before,
+ul.bb-custom-grid li:after{
+	
+	left:auto; right:  10px;
+	
+	-webkit-transform: rotate(3deg);
+	-moz-transform: rotate(3deg);
+	-ms-transform: rotate(3deg);
+	-o-transform: rotate(3deg);
+	transform: rotate(3deg);
+}
+
+ul.bb-custom-grid li:after {
+	left: 10px;
+	right: auto;
+	-webkit-transform: rotate(-3deg);
+	-moz-transform: rotate(-3deg);
+	-ms-transform: rotate(-3deg);
+	-o-transform: rotate(-3deg);
+	transform: rotate(-3deg);
+}
+
+ul.bb-custom-grid li a {
+	
+}
+
+ul.bb-custom-grid li h3 {
+	
+}
+
+ul.bb-custom-grid nav {
+	
+}
+
+ul.bb-custom-grid nav span {
+	
+}
+
+ul.bb-custom-grid nav span.bb-current {
+	
+}

@@ -1,0 +1,143 @@
+.bb-custom-wrapper {
+	
+}
+
+.bb-bookblock {
+	
+}
+
+.bb-custom-content {
+	
+}
+
+.bb-custom-bg {
+	
+}
+
+.bb-custom-content h3 {
+	
+}
+
+.bb-custom-content h3:before,
+.bb-custom-content h3:after {
+	
+}
+.bb-custom-content h3:before {
+
+}
+
+.bb-custom-content p, 
+.bb-custom-content h4 span,
+.bb-bookblock .folder-cover span{
+	
+}
+
+.bb-custom-content p {
+	
+}
+
+.bb-custom-content h4 {
+	
+}
+
+.bb-custom-content h4 span {
+	
+}
+
+nav.bb-custom-nav  {
+	
+}
+
+nav.bb-custom-nav a {
+	float: left;
+	background: url(../images/nav.png) center left;
+	
+}
+
+nav.bb-custom-nav a:first-child {
+	background-position: center right;
+	margin-right: 0; margin-left: 5px;
+	float: right;
+}
+
+
+.bb-bookblock .folder {
+	
+	
+}
+
+.bb-bookblock .folder-cover, 
+.bb-bookblock .folder-inner {
+	
+	left: auto; right:10px;
+	
+}
+
+.bb-bookblock .folder-cover {
+	
+	background: -moz-linear-gradient(right, #f7f7f7 0%, #ffffff 12%, #ededed 100%);
+	background: -webkit-linear-gradient(right, #f7f7f7 0%,#ffffff 12%,#ededed 100%);
+	background: -o-linear-gradient(right, #f7f7f7 0%,#ffffff 12%,#ededed 100%);
+	background: -ms-linear-gradient(right, #f7f7f7 0%,#ffffff 12%,#ededed 100%);
+	background: linear-gradient(to left, #f7f7f7 0%,#ffffff 12%,#ededed 100%);
+	box-shadow: 
+		inset 2px 0 5px rgba(255,255,255,0.4), 
+		-1px 1px 3px rgba(0,0,0,0.2), 
+		-2px 0 3px rgba(0,0,0,0.2);
+}
+
+.bb-bookblock .folder-inner {
+	
+	box-shadow:  
+		inset 0 -2px 2px rgba(255,255,255,0.4), 
+		inset 0 2px 2px rgba(255,255,255,0.2), 
+		-1px 0 2px rgba(0,0,0,0.1);
+	
+}
+
+.bb-bookblock .folder-fold {
+
+	background: -moz-linear-gradient(right, #ffffff 0%, #f2f2f2 4%, #ffffff 88%, #f7f7f7 100%);
+	background: -webkit-linear-gradient(right, #ffffff 0%,#f2f2f2 4%,#ffffff 88%,#f7f7f7 100%);
+	background: -o-linear-gradient(right, #ffffff 0%,#f2f2f2 4%,#ffffff 88%,#f7f7f7 100%);
+	background: -ms-linear-gradient(right, #ffffff 0%,#f2f2f2 4%,#ffffff 88%,#f7f7f7 100%);
+	background: linear-gradient(to left, #ffffff 0%,#f2f2f2 4%,#ffffff 88%,#f7f7f7 100%);
+	
+	right: auto; left:10px;
+	
+	-webkit-transform-origin: 0 50%;
+	-moz-transform-origin: 0 50%;
+	-o-transform-origin: 0 50%;
+	-ms-transform-origin: 0 50%;
+	transform-origin: 0 50%;
+}
+
+.bb-bookblock .folder-cover span {
+	
+	text-align: right;
+	
+	padding: 10px 30px 10px 0;
+	border-radius: 0 10px 10px 0;
+	box-shadow: -1px 1px 1px rgba(0,0,0,0.05);
+	border: 1px solid rgba(255,255,255,0.2);
+	border-left: none;
+}
+
+#folder-close {
+	
+	right: auto; left:10px;
+	
+	
+}
+
+.bb-custom-last {
+	
+}
+
+.bb-custom-circle {
+	
+	right: auto; left: 80px;
+	
+	background: url(../images/demo3/faces.jpg) -288px -210px;
+	
+}

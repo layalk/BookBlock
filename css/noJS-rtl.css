@@ -1,0 +1,27 @@
+/* No JavaScript Style for demos */
+
+.bb-bookblock, ul.bb-custom-grid li {
+	
+}
+
+.bb-item {
+
+}
+
+.bb-custom-wrapper {
+	
+}
+
+.bb-custom-content {
+	
+}
+
+.bb-bookblock .folder-inner {
+	left: auto; right: 320px;
+}
+
+.bb-bookblock .folder-fold,
+.bb-bookblock .folder-cover span,
+#folder-close {
+	
+}
